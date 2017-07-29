@@ -1,0 +1,22 @@
+{
+  "name": "electron-timer-app",
+  "version": "1.0.0",
+  "description": "electron-timer-app based on tutorial http://www.codeblocq.com/2016/06/Build-your-First-Electron-App/",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dddhany/electron-timer-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dddhany/electron-timer-app/issues"
+  },
+  "homepage": "https://github.com/dddhany/electron-timer-app#readme",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
